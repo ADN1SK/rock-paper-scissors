@@ -38,3 +38,17 @@ h1 {
     color: hsla(0, 0%, 20%, 0.842);
     margin-top: 20px;
 }
+.scoredisplay {
+    font-size: 2rem;
+    margin-top: 20px;
+}
+
+
+
+.greenText, #playerscore {
+    color: hsl(120, 93%, 41%)
+}
+
+.redText, #computerscorevalue {
+    color: hsl(0, 93%, 41%)
+}
