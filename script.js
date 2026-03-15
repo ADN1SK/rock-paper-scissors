@@ -49,3 +49,7 @@ function playgame(playerchoice) {
             resultdisplay.style.color = 'black';
     }
 }
+
+
+
+
