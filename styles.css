@@ -1,0 +1,40 @@
+body{
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+h1 {
+    font-size: 36px;
+    color: hsla(0, 0%, 20%, 0.842);
+    margin-bottom: 20px;
+}
+.choices {
+    margin-bottom: 30px;
+}
+.choices button {
+    font-size: 7.5rem;
+    min-width: 160px;
+    margin: 0 10px;
+    cursor: pointer;
+    background-color: hsla(174, 98%, 53%, 0.925);
+    border-radius: 250px;
+    transition:background-color 0.5s ease;
+
+}
+.choices button:hover {
+    background-color: hsla(174, 98%, 73%, 0.5);
+}
+#playerdisplay, #computerdisplay {
+    font-size: 2.5rem;
+    margin: 10px 0;
+}
+#resultdisplay {
+    font-size: 3rem;
+    color: hsla(0, 0%, 20%, 0.842);
+    margin-top: 20px;
+}
