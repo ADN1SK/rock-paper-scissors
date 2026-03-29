@@ -22,11 +22,12 @@ I’m passionate about building projects, learning new technologies, and collabo
 A fun implementation of the classic Rock Paper Scissors game using JavaScript, CSS, and HTML.
 
 ## 🤝 Let's Connect!
-
+adammoha0987@gmail.com
+@ADN1SK
 
 ---
 
-*Thanks for stopping by! ⭐️*
+_**Thanks for stopping by! ⭐️**_
 
 PRACTICES AND STAYING CONSISTANT.
 ##screenshot:
