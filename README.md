@@ -13,16 +13,12 @@ _** 🛠️ Languages & Tools**_
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <!-- Add more badges for your top skills and tools! -->
-
- 📈 GitHub Stats
-[ADN1SK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADN1SK&show_icons=true&hide_border=true&count_private=true)
-
-## ⚡ Featured Project
+ ⚡ Featured Project
 [rock-paper-scissors](https://github.com/ADN1SK/rock-paper-scissors)  
 A fun implementation of the classic Rock Paper Scissors game using JavaScript, CSS, and HTML.
 
-## 🤝 Let's Connect!
-adammoha0987@gmail.com
+_** 🤝 Let's Connect!**
+adammoha0987@gmail.com_
 @ADN1SK
 
 ---
