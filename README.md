@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 I’m passionate about building projects, learning new technologies, and collaborating with others in the developer community.
 
-#🚀 About Me
+_**🚀 About Me**_
 - 💻 I enjoy coding, problem-solving, and continuous learning.
 - 🌱 Currently exploring new technologies and expanding my skillset.
 - 🔭 Most of my repositories involve JavaScript, CSS, and HTML.
