@@ -1,6 +1,6 @@
- 👋 Hi, I'm ADN1SK!
+_** 👋 Hi, I'm ADN1SK!
 
-Welcome to my GitHub profile!  
+Welcome to my GitHub profile!  **_
 I’m passionate about building projects, learning new technologies, and collaborating with others in the developer community.
 
 _**🚀 About Me**_
